@@ -6,6 +6,12 @@ The layout of the files/folders that needs to be followed in order for the in-ga
 
 ``/language_code/topic.txt``
 
+Language codes:
+- en - English
+- ko - Korean
+- ja - Japanese
+- de - German
+
 Examples:
 ```
 /en/videogames.txt
