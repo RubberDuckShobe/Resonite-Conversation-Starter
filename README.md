@@ -6,16 +6,26 @@ The layout of the files/folders that needs to be followed in order for the in-ga
 
 ``/language_code/topic.txt``
 
+In the case of translating UI buttons (not lines of topics), the layout needs to be as follows:
+
+``/UI Translations/language_code.txt``
+
+In both cases, please refer to the English template and put translated strings on the same line number as in the original.
+
 Language codes:
 - en - English
 - ko - Korean
 - ja - Japanese
 - de - German
 
+**If you would like to add a language that is not listed here, please use the language's [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)!**
+
 Examples:
 ```
 /en/videogames.txt
 /de/general.txt
+/UI Translations/ja.txt
+/UI Translations/ko.txt
 ```
 
 The game randomly picks one line to display, so inside of the text files, there can be no more than one question/prompt per line, like this:
