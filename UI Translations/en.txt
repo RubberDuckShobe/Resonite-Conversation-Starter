@@ -1,5 +1,3 @@
-This file shouldn't be changed, this is just as a reference/template for translations.
-
 Header:
 m1nt_'s Conversation Starter
 
