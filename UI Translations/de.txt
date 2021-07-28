@@ -16,3 +16,6 @@ Wähle Thema und Sprache, dann drücke "Generieren!"
 <color=#FF0000>Diese Sprache/dieses Thema ist noch nicht unterstützt!
 <color=#FF0000>Host-Zugriffsanfrage wurde abgelehnt
 <color=#ff0000>Ein Fehler ist aufgetreten!
+
+License Info:
+Nutzt Neos-Conversation-Starter von RubberDuckShobe, lizensiert unter AGPL
