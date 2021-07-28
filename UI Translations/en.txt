@@ -16,3 +16,6 @@ Set topic and language, then press "Generate!"
 <color=#FF0000>This language/topic isn't supported yet!
 <color=#FF0000>Host access request was denied
 <color=#ff0000>An error has occurred!
+
+License Info:
+Uses Neos-Conversation-Starter by RubberDuckShobe licensed under AGPL
