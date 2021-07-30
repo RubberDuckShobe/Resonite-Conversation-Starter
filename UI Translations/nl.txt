@@ -1,0 +1,21 @@
+Header:
+m1nt_'s Conversatie Starter
+
+Generation button:
+Genereer!
+
+Topic Select:
+Algemeen
+Video spellen
+Series & Films
+Neos
+Eten
+
+Output:
+Kies een onderwerp en taal, druk dan op "Genereer!"
+<color=#FF0000>Deze taal/Dit onderwerp is nog niet ondersteund!
+<color=#FF0000>Host toegang verzoek was geweigert
+<color=#ff0000>Er heeft een fout plaats gevonden!
+
+License Info:
+Gebruikt Neos-Conversation-Starter door RubberDuckShobe licentie onder AGPL
