@@ -1,0 +1,21 @@
+Header:
+m1nt_ の会話スターター
+
+Generation button:
+生成！
+
+Topic Select:
+一般
+ビデオゲーム
+番組 & 映画
+Neos
+食べ物
+
+Output:
+トピックと言語を設定し、「生成！」を押してください。
+<color=#FF0000>この言語/トピックはまだサポートされていません。
+<color=#FF0000>ホストアクセス要求が拒否されました。
+<color=#ff0000>エラーが発生しました。
+
+License Info:
+AGPL でライセンスされた RubberDuckShobe による Neos-Conversation-Starter を使用しています。
