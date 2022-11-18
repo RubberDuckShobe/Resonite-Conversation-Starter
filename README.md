@@ -17,6 +17,7 @@ Language codes:
 - ko - Korean
 - ja - Japanese
 - de - German
+- nl - Dutch
 
 **If you would like to add a language that is not listed here, please use the language's [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)!**
 
