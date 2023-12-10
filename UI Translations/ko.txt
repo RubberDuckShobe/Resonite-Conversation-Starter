@@ -18,4 +18,4 @@ Output:
 <color=#ff0000>에러가 발생했습니다!
 
 License Info:
-AGPL 라이센스의 보호 아래 RubberDuckShobe의 Neos-Conversation-Starter를 사용합니다
+AGPL 라이센스의 보호 아래 RubberDuckShobe의 Resonite-Conversation-Starter를 사용합니다

@@ -8,7 +8,7 @@ Topic Select:
 Algemeen
 Videospellen
 Series & Films
-Neos
+Resonite
 Eten
 
 Output:
@@ -18,4 +18,4 @@ Kies een onderwerp en taal, druk dan op "Genereer!"
 <color=#ff0000>Er heeft een fout plaats gevonden!
 
 License Info:
-Gebruikt Neos-Conversation-Starter door RubberDuckShobe licentie onder AGPL
+Gebruikt Resonite-Conversation-Starter door RubberDuckShobe licentie onder AGPL

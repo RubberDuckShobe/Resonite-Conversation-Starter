@@ -8,7 +8,7 @@ Topic Select:
 Allgemein
 Videospiele
 Serien & Filme
-Neos
+Resonite
 Essen
 
 Output:
@@ -18,4 +18,4 @@ Wähle Thema und Sprache, dann drücke "Generieren!"
 <color=#ff0000>Ein Fehler ist aufgetreten!
 
 License Info:
-Nutzt Neos-Conversation-Starter von RubberDuckShobe, lizensiert unter AGPL
+Nutzt Resonite-Conversation-Starter von RubberDuckShobe, lizensiert unter AGPL

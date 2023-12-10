@@ -8,7 +8,7 @@ Topic Select:
 一般
 ビデオゲーム
 番組 & 映画
-Neos
+Resonite
 食べ物
 
 Output:
@@ -18,4 +18,4 @@ Output:
 <color=#ff0000>エラーが発生しました。
 
 License Info:
-AGPL でライセンスされた RubberDuckShobe による Neos-Conversation-Starter を使用しています。
+AGPL でライセンスされた RubberDuckShobe による Resonite-Conversation-Starter を使用しています。

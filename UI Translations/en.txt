@@ -8,7 +8,7 @@ Topic Select:
 General
 Videogames
 Shows & Movies
-Neos
+Resonite
 Food
 
 Output:
@@ -18,4 +18,4 @@ Set topic and language, then press "Generate!"
 <color=#ff0000>An error has occurred!
 
 License Info:
-Uses Neos-Conversation-Starter by RubberDuckShobe licensed under AGPL
+Uses Resonite-Conversation-Starter by RubberDuckShobe licensed under AGPL
