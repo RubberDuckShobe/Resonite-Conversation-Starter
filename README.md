@@ -1,6 +1,6 @@
-# Neos-Conversation-Starter
-Hosts files for my Neos conversation starter.<br>
-The item this code belongs to can be found in my public folder which can be spawned out by pasting the following link inside of Neos. ``neosrec:///U-m1nt-/R-39e82928-a499-445a-be77-ea44720867ef``<br>
+# Resonite-Conversation-Starter
+Hosts files for my Resonite conversation starter.<br>
+The item this code belongs to can be found in my public folder. It can also be spawned directly by pasting the following link inside of Resonite. ``resrec:///U-m1nt-/R-0988f89d-6e25-476a-9c29-3ad07630bdca``<br>
 **Contributions and translations are much appreciated and needed!**
 
 ## File and folder structure:
